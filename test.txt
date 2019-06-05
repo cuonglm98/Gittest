@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-aaaaaaaaaaaaaaaaaaaaa
-=======
-thay d?i l?n 2
->>>>>>> parent of 5e21a8e... thay doi 2 file
